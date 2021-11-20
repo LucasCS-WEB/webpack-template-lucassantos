@@ -2,7 +2,7 @@
 
 ## Webpack template with SASS Architecture and JavaScript ES6 Modular
 
-<center><img src='./src/images/sass-webpack.png' width='370'></center>
+<p style="text-align: center;"><img src='./src/images/sass-webpack.png' width='370'></p>
 
 <br><br>
 
