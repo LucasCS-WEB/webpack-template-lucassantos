@@ -1,3 +1,4 @@
+<div align="center">
 <br>
 
 ## Webpack template with SASS Architecture and JavaScript ES6 Modular
@@ -12,6 +13,7 @@
 
 > ### ✔️ JavaScript ES6 Modular
 
+</div>
 <br><br>
 
 ## Start developing
