@@ -9,9 +9,9 @@
 
 <br><br>
 
-> ### ✔️ SASS Architecture
+### ✔️ SASS Architecture
 
-> ### ✔️ JavaScript ES6 Modular
+### ✔️ JavaScript ES6 Modular
 
 </div>
 <br><br>
