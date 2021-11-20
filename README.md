@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-## Webpack template with SASS Architecture and JavaScript ES6 Modular
+## Webpack template with Architecture SASS and Architecture JavaScript ES6 Modules
 
 <br><br>
 
@@ -9,9 +9,9 @@
 
 <br><br>
 
-### ✔️ SASS Architecture
+### ✔️ Architecture SASS
 
-### ✔️ JavaScript ES6 Modular
+### ✔️ Architecture JavaScript ES6 Modules
 
 </div>
 <br><br>
